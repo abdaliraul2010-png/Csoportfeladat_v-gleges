@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(255, 132, 173);
+  text-align: justify;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, Tahoma, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 35px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bolder;
+  background-color: fuchsia;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bolder;
+  color: darkgreen;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+  background-color: aqua;
+}
+
+p {
+  color: black;
+  font-size: 15px;
+}
+
+ul {
+  font-size: 20px;
+  color: brown;
+}
+
+dl {
+  font-size: 20px;
+  color: brown;
+}
+
+img {
+  width: 35%;
+  height: auto;
+}
+
+/*Készítette: Udud Mátyás*/
